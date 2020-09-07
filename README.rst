@@ -4,8 +4,7 @@ Cliquez sur ce badge et attendez que l'environnement charge complètement.
 Vous pourrez ensuite accéder au notebook comme si vous aviez un environnement python sur votre machine.
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/sangfrois/cours2_principes_irm/app_sangfrois?filepath=applications_cours2_principes_IRM.ipynb
-
+ :target: https://mybinder.org/v2/gh/PSY3018/cours2_principes_irm/master?filepath=applications_cours2_principes_IRM.ipynb
 
 Installation
 =============
