@@ -6,7 +6,6 @@ Vous pourrez ensuite accéder au notebook comme si vous aviez un environnement p
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/PSY3018/cours2_principes_irm/master?filepath=applications_cours2_principes_IRM.ipynb
 
-
 Installation
 =============
 Si vous désirez rouler le code sur votre machine, assurez-vous d'avoir la liste
