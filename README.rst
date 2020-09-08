@@ -8,9 +8,8 @@ Vous pourrez ensuite accéder au notebook comme si vous aviez un environnement p
 
 Installation
 =============
-Si vous désirez rouler le code sur votre machine, assurez-vous d'avoir la liste
-des packages python (située dans le fichier *requirements.txt*) installés dans
-votre environnement local.
+Si vous désirez rouler le code sur votre machine, assurez-vous d'avoir les packages python requis
+installés dans votre environnement local. La liste des packages se trouve dans le fichier *requirements.txt*.
 
 Nous ne voulons pas nous attarder aux problèmes d'installation. Pour cela, nous
 allons éviter les détails d'une installation locale. Par contre, voici un
